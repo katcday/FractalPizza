@@ -28,4 +28,9 @@ When you are done playing, you can click get paid to view a summary of how much 
   <img src="https://github.com/katcday/FractalPizza/blob/main/FractalPizza%20Captures/End%20Screen.png">
 </p>
 
-## Stages of Developpment
+## Stages of Development
+This game was made in a 6 hour time crunch two nights before robotics competition while my team was pulling an all-nighter working on our robot. I had to make an educational game for my game design class, and really wanted to make some sort of restaurant themed game. My original idea had been to have players draw toppings onto a certain portion of the pizza, but I haven't had time to work on that yet.
+
+Instead, I started with a much more basic game where you simply select a certain amount of slices. The hardest part of developing the game was programming the collisions for the slices (especially on so little sleep). Finally once the collisions worked, I slapped on a little summary and turned it in. 
+
+I think the game was a fun practice in coding, but would be much better if players could draw on the toppings like I had initially planned. I'll try and work on that in the future.
